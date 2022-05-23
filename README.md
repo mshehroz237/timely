@@ -5,6 +5,10 @@
 
  Created a javascript file first created a variable with current time and added to the to webpage. Then created a for loop that will run until we run out of busniess hours, in that for loop added if and else statments to validate the current time with the busniess hour and adding classes with colors inside css to represent past present and future.
 Making a event listener that will run when window is loaded added a event listener to a buttons and save text of the textarea into a variable. Then saving that into localstorage and displaying them by using .getItem.
+ 
+My deployment link: https://mshehroz237.github.io/timely/
+
+my github link: https://github.com/mshehroz237/timely
 
 Follwing are the images of the code and the output
 <img width="1440" alt="Screen Shot 2022-05-22 at 11 43 26 PM" src="https://user-images.githubusercontent.com/97645096/169740368-7959b170-c6a5-42c4-92fd-d3202825bd7d.png">
